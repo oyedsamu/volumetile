@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Volume speaker icon scaled for adaptive icon foreground (108dp canvas, safe zone ~72dp) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31.5,45v18h12l15,15V30l-15,15H31.5zm40.5,9c0-5.31-3.06-9.87-7.5-12.09v24.15C68.94,63.87,72,59.31,72,54zM64.5,32.19v6.18C72.17,40.77,78,46.62,78,54s-5.83,13.23-13.5,15.63v6.18C76.53,73.26,84,64.47,84,54s-7.47-19.26-19.5-21.81z" />
+</vector>
