@@ -3,7 +3,4 @@
     <string name="app_name">Volume Tile</string>
     <string name="tile_label">Volume</string>
     <string name="volume_icon_desc">Volume level</string>
-    <string name="screenshot_tile_label">Screenshot</string>
-    <string name="accessibility_service_label">VolumeTile Screenshot</string>
-    <string name="accessibility_service_description">Lets the Screenshot tile capture the screen using Android\'s built-in screenshot action.</string>
 </resources>
